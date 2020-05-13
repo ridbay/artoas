@@ -485,7 +485,7 @@ a:focus, a:hover {
 
 .sticky-header {
   box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.06);
-  background: cadetblue !important;
+
 }
 
 .sticky-header .navbar-nav > li > a {
@@ -509,7 +509,7 @@ a:focus, a:hover {
   margin: 0;
 }
 
-.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header, .navbar {
 
   background-color: cadetblue;
 }
@@ -1870,13 +1870,7 @@ a:focus, a:hover {
     display: none;
   }
   /* navigation */
-  header .container {
-    background-color: cadetblue;
-  }
-  .navbar-fixed-top {
-    padding-bottom: 10px;
-    background-color: cadetblue;
-  }
+
   .navbar-inverse .navbar-toggle,
   .navbar-inverse .navbar-toggle .icon-bar {
     border-color: #4e595f;
