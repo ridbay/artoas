@@ -1935,10 +1935,10 @@
 .tf-ion-social-euro:before {
   content: "\f4e1";
 }
-.tf-ion-social-facebook-outline:before {
+.tf-ion-social-https://facebook.com-outline:before {
   content: "\f230";
 }
-.tf-ion-social-facebook:before {
+.tf-ion-social-https://facebook.com:before {
   content: "\f231";
 }
 .tf-ion-social-foursquare-outline:before {
@@ -2493,7 +2493,7 @@
 .tf-happy:before {
   content: "\e05b";
 }
-.tf-facebook:before {
+.tf-https://facebook.com:before {
   content: "\e05d";
 }
 .tf-twitter:before {
