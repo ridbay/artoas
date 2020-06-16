@@ -539,7 +539,7 @@ a:hover {
 }
 
 .hero-area {
-    background-image: url("../images/slider/slider-bg-1.jpg");
+    background-image: url("../images/slider/hero.png");
     background-size: cover;
     height: 100vh;
     position: relative;
